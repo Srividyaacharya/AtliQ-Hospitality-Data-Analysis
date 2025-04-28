@@ -1,4 +1,4 @@
-# 🏨 Atliq Grands Hospitality Data Analysis -PowerBI
+# 🏨 Atliq Grands Hospitality Data Analysis - SQL
 
 ### Problem Statement 
 
